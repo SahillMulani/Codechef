@@ -1,8 +1,8 @@
-# Competitive Programming Solution and Information :high_brightness::high_brightness:
+# Competitive Programming Solution and Information : 📜
 
 Hello Programmers
 
-## :pushpin::pushpin: What is Competitive Programming? :pushpin::pushpin:
+## What is Competitive Programming? 
 
 According to me, competitive programming is a sport. A sport based on problem-solving skills, thinking ability, speed testing, regularity and to be precise. Competitive Programming will help you build logic and implement that logic to find solutions to a real-world problem. Brainstorming upon your code will increase your coding skills as well as it will help to expand your thinking capacity. Thus practicing Competitive Programming on day to day basis helps you in mastering that particular language. And believe us, if you are playing this sport regularly, you are already prepared for the technical rounds of the Interviews. So now let's dive into the ocean of **Competitive Programming.**
 
@@ -33,7 +33,7 @@ Teamwork skills: When you participate in these competitions, you will often work
 
 Interview prep: When you are trying to get an engineering job, companies will test you for your knowledge of data structures and algorithms. When you participate in competitive programming, you work to develop an advanced understanding of these concepts. Furthermore, the environment for the coding interview and competitive programming is quite similar. They are both high-pressure environments, in which you have to engage in problem-solving. While many others may not be able to adjust to this environment, your competition experience gives you an advantage.
 
-## Most Famous Programming Contests :crown: :crown:
+## Most Famous Programming Contests 
 
 **Upcomming contests schedule** - https://clist.by/
 
@@ -50,7 +50,7 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - Codechef Lunchtime🏆
 - Codeforces Rounds Div1 & Div2 & Div3 & Educational Codeforces Round🏆
 
-## Books :high_brightness::high_brightness:
+## Books 📒
 
 - [Competitive Programming 3📚](https://cpbook.net/)
 - [Data Structures and Algorithms Made Easy📚](https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/819324527X) - by Narasimha Karumanchi
@@ -59,12 +59,12 @@ Interview prep: When you are trying to get an engineering job, companies will te
 - [USACO Guide by the Competitive Programming Initiative](https://usaco.guide)
 - [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf) - by Antti Laaksonen
 
-## Algorithms :high_brightness::high_brightness:
+## Algorithms 
 
 - [CP Algorithms](https://cp-algorithms.com/)
 - [Visual Alogorithms](https://visualgo.net/en)
 
-## Code Visualisation :high_brightness::high_brightness:
+## Code Visualisation 
 
 - [C++ Code Visualisation](http://www.pythontutor.com/cpp.html)
 - [JAVA Code Visualisation](http://www.pythontutor.com/visualize.html)
